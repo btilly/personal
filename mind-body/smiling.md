@@ -1,26 +1,43 @@
 # What Smiling Does
 
 We smile when we are happy.  
-Did you know that smiling makes us happy?  
-What happens when you choose to smile?  
+Smiling also makes us happy.  
+Mind-body connections go both ways.
+
+When you choose to smile,  
+everything becomes better.  
+For you and others.
 
 (Insert flow diagram here.)
 
-Smiling is a choice.  
-It makes the meeting better for everyone,  
-and especially for you!  
 
-Most of us are not used to smiling.  
-It becomes comfortable with practice.  
-After time, it becomes your resting face. 
+Study this diagram carefully.  
+Every connection is real!  
+They all work together.
 
-If you can get your audience to smile,  
-they will enjoy your presentation more.  
-Your smile helps that happen.
+When we pay attention,  
+we register what others feel.  
+Then often feel it ourselves.
 
-You always have the choice.  
-Even if you didn't do it before. 
-Will you choose to smile?
+What do you want  
+your audience to feel?  
+You should feel it first.
+
+Show, don't tell!  
+It takes less than we think,  
+to deliver a feeling.
+
+And when that feeling is good,  
+people want to pay attention!  
+Happiness holds your audience!
+
+Stories often need  
+other emotions it's true.  
+Drama requires that tension.
+
+But bring your audience back  
+to a happier place!  
+Make your default a smile!
 
 -----
 
