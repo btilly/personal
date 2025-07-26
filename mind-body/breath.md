@@ -11,7 +11,7 @@ Hands at hips for breath out.
 Hands at ribs for breath in.
 
 Breathe out.  
-Then follow the diagram.
+Then follow the diagram.  
 Counting at an even pace.
 
 How do you feel?  
@@ -22,25 +22,25 @@ This is a 1-2-3 breath.
 Many breathing techniques,  
 create strong mind-body connections.
 
-Your hands just helped you visualize.  
-Your counting was to get the rhythm.  
-The breath was what mattered.
+Your hands helped you visualize.  
+Your counting gave the rhythm.  
+The breath alone mattered.
 
 Standing on stage,  
 before you open your mouth,  
 take a 1-2-3 breath.
 
 If you're overwhelmed by anxiety,  
-pause and take a 1-2-3 breath.  
-You can do it quite quickly.
+pause for a 1-2-3 breath.  
+You can do this quite quickly.
 
-This centering breath makes you calm.  
-Which makes your presentation easier to give,  
-and makes you appear more confident.
+Take this centering breath.  
+It makes you calm on stage.  
+You will appear more confident.
 
-This is how one breath,  
+This is how a breath,  
 that you can do at any time,  
-can help your presentation.
+helps you present your speech.
 
 -----
 
