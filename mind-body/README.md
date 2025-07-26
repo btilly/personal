@@ -11,3 +11,4 @@ Here are some of the ideas that I am starting with:
 
 1. [What is in a smile?](./smiling.md)
 2. [With One Breath](./breath.md)
+3. [The Power of a Comma / Drop Your Shoulders](./comma-drop.md)
