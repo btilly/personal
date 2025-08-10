@@ -44,7 +44,7 @@ Try this exercise:
 
 Stand up fairly straight.
 Shoulders go forward,  
-up, back (while up), down.
+up, back, then down.
 
 Your chest should lock open.  
 Now pull up on some hair  
