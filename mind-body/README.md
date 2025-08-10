@@ -12,6 +12,7 @@ Here are some of the ideas that I am starting with:
 1. [What is in a smile?](./smiling.md)
 2. [With One Breath](./breath.md)
 3. [The Power of a Comma / Drop Your Shoulders](./comma-drop.md)
+4. [Improve Your Posture](./posture.md)
 5. [Theory of Mind-Body Connections](./theory.md)
 
 Note that the triplets sort of happened, then I kept them as a good idea.
