@@ -28,21 +28,25 @@ Here is how we can choose to use this.
 Body awareness brings mind awareness.  
 Body control brings control over our minds.
 
-For example if we want to hide,  
-we breathe shallowly to be quiet.  
-So shallow breaths are tied to hiding.
+Others see and hear the result.  
+And then mirror us.  
+Causing them to feel the same.
 
-If your breathing is shallow,  
-then you are hiding something.  
-Maybe from yourself.
+What do you want  
+your audience to feel?  
+Feel it yourself first.
 
-Are your words stuck in your throat?  
-Try breathing fully and deliberately.  
-Your words will tumble out of hiding.
+Show, don't tell!  
+It takes very few words,  
+to deliver a feeling.
+
+You can deliver any emotion.  
+Take a quick breath in.  
+Now try to sound excited!
 
 There are many connections.  
 Each takes practice to use.  
-You can start anywhere.
+But you can start anywhere.
 
 In this, as with all things,  
 Vilfredo Pareto was right.  

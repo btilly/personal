@@ -17,27 +17,27 @@ They all work together.
 
 When we pay attention,  
 we register what others feel.  
-Then often feel it ourselves.
+Then feel it ourselves.
 
-What do you want  
-your audience to feel?  
-You should feel it first.
+We enjoy being happy.  
+So we actively enjoy  
+paying attention to happy people.
 
-Show, don't tell!  
-It takes less than we think,  
-to deliver a feeling.
+Did you know that McDonalds  
+has their employees smile  
+when they take your order?
 
-And when that feeling is good,  
-people want to pay attention!  
-Happiness holds your audience!
+Customers hear the smile,  
+even when they can't see it!  
+And it makes ordering nicer.
 
-Stories often need  
-other emotions it's true.  
-Drama requires that tension.
+You cannot always smile.  
+Good stories often need  
+other emotions.
 
 But bring your audience back  
 to a happier place!  
-Make your default a smile!
+Make smiling your default!
 
 -----
 
