@@ -18,13 +18,17 @@ How do you feel?
 After just one breath,  
 in the rhythm of a contented sigh.
 
+Your hands helped you visualize.  
+Your counting gave the rhythm.  
+The breath alone mattered.
+
 This is a 1-2-3 breath.  
 Many breathing techniques,  
 create strong mind-body connections.
 
-Your hands helped you visualize.  
-Your counting gave the rhythm.  
-The breath alone mattered.
+Breath techniques appear,  
+in yoga, meditation, therapy...  
+This one is fast and convenient.
 
 Standing on stage,  
 before you open your mouth,  
@@ -38,9 +42,9 @@ Take this centering breath.
 It makes you calm on stage.  
 You will appear more confident.
 
-This is how a breath,  
-that you can do at any time,  
-helps you present your speech.
+This is what you can do  
+with a single breath,  
+to make speaking easier.
 
 -----
 
