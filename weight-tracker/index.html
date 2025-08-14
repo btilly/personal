@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>LocalStore Demo</title>
+</head>
+<body>
+  <h1>LocalStore YAML Viewer</h1>
+  <button id="refresh">Refresh View</button>
+  <pre id="yamlOutput"></pre>
+
+  <h2>Add/Update a Value</h2>
+  <label>
+    Path (dot-separated): 
+    <input id="pathInput" placeholder="users.alice.age">
+  </label>
+  <br>
+  <label>
+    Value: 
+    <input id="valueInput" placeholder="30">
+  </label>
+  <br>
+  <button id="saveValue">Save Value</button>
+
+  <!-- jsyaml from CDN -->
+  <script src="https://cdn.jsdelivr.net/npm/js-yaml@4/dist/js-yaml.min.js"></script>
+  <!-- Your local-store.js -->
+  <script type="module">
+    import { LocalStore } from './local-store.js'; // Adjust if not exporting
+
+    // If local-store.js doesn't export, remove the import and assume it's global.
+    // For now, let's assume you made it export:
+    // export class LocalStore { ... }
+
+    const store = new LocalStore("myData");
+
+    function refreshView() {
+      const yamlStr = localStorage.getItem("myData") || "";
+      document.getElementById("yamlOutput").textContent = yamlStr;
+    }
+
+    function setValueFromPath(path, value) {
+      const parts = path.split('.');
+      let obj = store;
+      for (let i = 0; i < parts.length - 1; i++) {
+        obj = obj.child(parts[i]);
+      }
+      obj.set(parts[parts.length - 1], value);
+    }
+
+    document.getElementById("refresh").addEventListener("click", refreshView);
+
+    document.getElementById("saveValue").addEventListener("click", () => {
+      const path = document.getElementById("pathInput").value.trim();
+      const value = document.getElementById("valueInput").value.trim();
+      if (path) {
+        setValueFromPath(path, value);
+        refreshView();
+      }
+    });
+
+    // Initial view
+    refreshView();
+  </script>
+</body>
+</html>
